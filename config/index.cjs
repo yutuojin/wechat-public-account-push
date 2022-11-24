@@ -31,8 +31,6 @@ const USER_CONFIG = {
         {
           type: '生日', name: '李四', year: '2003', date: '04-22',
         },
-      ],
-    },
   ],
 
 }
